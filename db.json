@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "firstname": "Shivani ",
+      "lastname": "Patil",
+      "birthdate": "1999-06-15",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "infosys",
+      "jobExperience": 1,
+      "salary": 5,
+      "profile": "Profile-01.jpg",
+      "id": 7
+    },
+    {
+      "firstname": "Vikas",
+      "lastname": "Tambe",
+      "birthdate": "1999-01-23",
+      "gender": "m",
+      "education": "graduate",
+      "company": "TCS",
+      "jobExperience": 2,
+      "salary": 4,
+      "profile": "Profile-02 .jpg",
+      "id": 8
+    },
+    {
+      "firstname": "Shubham",
+      "lastname": "Thorat",
+      "birthdate": "1995-10-16",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Cognizant",
+      "jobExperience": 2,
+      "salary": 4.6,
+      "profile": "Profile-04.jpg",
+      "id": 10
+    },
+    {
+      "firstname": "Brijesh",
+      "lastname": "Todkari",
+      "birthdate": "2001-05-29",
+      "gender": "m",
+      "education": "graduate",
+      "company": "Capgemini",
+      "jobExperience": 2,
+      "salary": 6,
+      "profile": "Profile-05.jpg",
+      "id": 13
+    },
+    {
+      "firstname": "Maya",
+      "lastname": "Jondhale",
+      "birthdate": "2000-06-18",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Wipro",
+      "jobExperience": 3,
+      "salary": 1,
+      "profile": "Profile-03.jpg",
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
